@@ -1,11 +1,11 @@
-> **This project is currently unmaintained.**
+> **This project is absolutely maintained.**
 
-## SnowLeopardR
-SnowLeopardR is an open-source machine learning-based anticheat project. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
+## AimwhereAi
+AimwhereAI is an open-source machine learning-based anticheat project forked from SnowLeopardR. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
 
-The feature extration procedure is backed up with experiment results, and the subsequently derived dataset is testified to reveal user's movement characteristics. SnowLeopardR classifies the data by leveraging a learning vector quantization neural network[1].
+The feature extration procedure is backed up with experiment results, and the subsequently derived dataset is testified to reveal user's movement characteristics. AimwhereAI classifies the data by leveraging a learning vector quantization neural network[1].
 
-The project is initially presented as SnowLeopard, which is more like a working draft. As a tutorial, it is also nice to have a bit of software engineering. Therefore, the original one has been refactored for a robust and scalable architecture and renamed to SnowLeopardR. For further information, please move to the link below.
+The project is initially presented as SnowLeopardR, which is more like a working draft. As a tutorial, it is also nice to have a bit of software engineering. Therefore, the original one has been refactored for a robust and scalable architecture and renamed to AimwhereAI. For further information, please move to the link below.
 
 ## Works Cited
 [1] T. Kohonen (1995), "Learning vector quantization", in M.A. Arbib (ed.), _The Handbook of Brain Theory and Neural Networks_, Cambridge, MA: MIT Press, pp. 537–540
